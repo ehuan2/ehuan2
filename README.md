@@ -4,4 +4,4 @@
 
 - 👨‍💻 See more about me on my website: **[https://ehuan2.github.io/](https://ehuan2.github.io/)**
 
-- 📄 Know about my experiences **[https://ehuan2.github.io/assets/pdf/resume.pdf](https://ehuan2.github.io/assets/pdf/resume.pdf)**
+- 📄 Know about my experiences: **[https://ehuan2.github.io/assets/pdf/resume.pdf](https://ehuan2.github.io/assets/pdf/resume.pdf)**

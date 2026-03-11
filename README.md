@@ -4,5 +4,4 @@
 
 - 👨‍💻 See more about me on my website: **[https://ehuan2.github.io/](https://ehuan2.github.io/)**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1HdTDg3G_i3y_OxbjBGhWDlQkYsx0LBxY/view?usp=sharing](https://drive.google.com/file/d/1HdTDg3G_i3y_OxbjBGhWDlQkYsx0LBxY/view?usp=sharing)**
-
+- 📄 Know about my experiences **[https://ehuan2.github.io/assets/pdf/resume.pdf](https://ehuan2.github.io/assets/pdf/general.pdf)**
